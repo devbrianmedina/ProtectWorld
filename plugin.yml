@@ -1,0 +1,6 @@
+name: ProtectWorld
+main: brianmedina.protectworld.Main
+author: "@TheDevBrian"
+version: 0.1
+website: "https://twitter.com/TheDevBrian"
+api: [1.0.8]
